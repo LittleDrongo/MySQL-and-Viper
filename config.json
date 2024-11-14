@@ -1,0 +1,4 @@
+{
+    "connection_string": "fomin:user_password@tcp(127.0.0.1:3306)/mydb",
+    "port": 8080
+}
